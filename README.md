@@ -17,7 +17,7 @@ It aims to provide a comprehensive analysis on the research on 2 different tradi
 The research aims to contribute to the field of quantitative finance by providing practical insights and methodologies for building effective trading strategies using machine learning techniques.
 
 
-The stock data used can be obtained from the first five stocks in tr_eikon_eod_data.csv, named AAPL.O, MSFT.O, INTC.O, AMZN.O, and GS.N. The completed codes for this research can be found in Trading_Strategies_Analysis_Codes.ipynb, along with code-specific instructions and observations. This report is a detailed analysis on the application of the two strategies with the machine learning model.
+The stock data used can be obtained from the first five stocks in tr_eikon_eod_data.csv, named AAPL.O, MSFT.O, INTC.O, AMZN.O, and GS.N. The completed codes for this research can be found in Trading_Strategies_Analysis_Codes.ipynb, along with code-specific instructions and observations. The report is a detailed analysis on the application of the two strategies with the machine learning model.
 
 This repository contains:
 1. Sample data used in the analysis :  ***tr_eikon_eod_data.csv***
